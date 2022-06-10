@@ -1,4 +1,3 @@
-# Curso-Analisis-de-datos
 Para que este programa funcione primero se llama el constructo a traves de:
 busqueda_BoS "nombre que le quiera dar al objeto";
 Considerandoe l nombre del objeto BS, luego  el usuario debe crear su propio vector con valores ordenados de mayor a menor e introducirlo en la funcion a traves de:
